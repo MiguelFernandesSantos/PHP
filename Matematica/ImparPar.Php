@@ -47,7 +47,7 @@ Echo ("<br>A Quantidade de numeros Pares é de: " . $ImparPar["Par"]."<br>");
 
 Echo ("<br>A media dos numeros Pares é de: " . round($ImparPar["MediaPar"],2)."<br>");
 
-Echo ("<br>A Quantidade de numeros Pares é de: " . $ImparPar["Impar"]."<br>");
+Echo ("<br>A Quantidade de numeros Impares é de: " . $ImparPar["Impar"]."<br>");
 
 Echo ("<br>A media dos numeros Impares é de: ". round($ImparPar["MediaImpar"],2)."<br>");
 
