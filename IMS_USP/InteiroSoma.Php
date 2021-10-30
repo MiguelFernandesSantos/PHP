@@ -1,5 +1,13 @@
 <?php
 
+#####################################################
+#                                                   #
+#    NOME: MIGUEL FERNANDES SANTOS.                 #
+#    DATA: 13/10/2021                               #
+#    PROJETO: Inteiro Soma.                         #
+#                                                   #
+#####################################################
+
 // DECLARAÇÃO DE UM ARRAY:
 $Numeros = [];
 
