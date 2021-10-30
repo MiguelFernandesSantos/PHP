@@ -1,5 +1,12 @@
 <?php
 
+#####################################################
+#                                                   #
+#    NOME: MIGUEL FERNANDES SANTOS.                 #
+#    DATA: 02/10/2021                               #
+#    PROJETO: Area e Perimetro.                     #
+#                                                   #
+#####################################################
 
 $GeometriaPlana = [ 
 					"Quadrado" => [
