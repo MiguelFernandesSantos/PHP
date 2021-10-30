@@ -1,5 +1,13 @@
 <?php
 
+#####################################################
+#                                                   #
+#    NOME: MIGUEL FERNANDES SANTOS.                 #
+#    DATA: 02/10/2021                               #
+#    PROJETO: IMPAR E PAR.                          #
+#                                                   #
+#####################################################
+
 	// Uma matriz que tem quantos numeros o programador precisa descobrir se é impar ou par:
 $Numeros = [
 				44,86,15,16,75,90,656,25,153,165,813,32,36
